@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iamAwwal/FunBook/static/css/main.0305d749.css",
+    "main.js": "/iamAwwal/FunBook/static/js/main.657f0ad8.js",
+    "static/media/img.jpeg": "/iamAwwal/FunBook/static/media/img.b754802b572708e16267.jpeg",
+    "static/media/userprofile.png": "/iamAwwal/FunBook/static/media/userprofile.0d14c6999b4a5c8e86a7.png",
+    "index.html": "/iamAwwal/FunBook/index.html",
+    "main.0305d749.css.map": "/iamAwwal/FunBook/static/css/main.0305d749.css.map",
+    "main.657f0ad8.js.map": "/iamAwwal/FunBook/static/js/main.657f0ad8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0305d749.css",
+    "static/js/main.657f0ad8.js"
+  ]
+}
